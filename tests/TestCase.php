@@ -2,7 +2,7 @@
 
 namespace :uc:vendor\:uc:package\Tests;
 
-use use Laravel\Lumen\Testing\TestCase as LumenTestCase;
+use Laravel\Lumen\Testing\TestCase as LumenTestCase;
 
 abstract class TestCase extends LumenTestCase
 {
